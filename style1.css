@@ -1,0 +1,27 @@
+*{
+    color: white;
+}
+#i{
+    font-size: 25px;
+}
+#s{
+    font-size: 25px;
+}
+#r{
+    font-size: 25px;
+}
+#v{
+    font-size: 25px;
+}
+#o{
+    font-size: 25px;
+}
+h2{
+    font-size: 30px;
+}
+body{
+    background-image: url(https://image.slidesdocs.com/responsive-images/background/devices-displaying-responsive-website-on-screen-viewed-from-above-on-wooden-desktop-in-3d-powerpoint-background_073689d322__960_540.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}

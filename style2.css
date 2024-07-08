@@ -1,0 +1,49 @@
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/pink-background-with-palm-tree_53876-110806.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1719273600&semt=ais_user);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#r{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 145px;
+    border:10px solid black;
+}
+#v{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 145px;
+    border:10px solid black;
+}
+#p{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 145px;
+    border:10px solid black;
+}
+#f{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 145px;
+    border:10px solid black;
+}
+#s{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 145px;
+    border:10px solid black;
+}
+#o{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 145px;
+    border:10px solid black;
+}
+
